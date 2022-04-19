@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm Gökhan 👋
+🌱 I’m currently learning C# and Unity
 
 <!--
 **gokhansaldik/gokhansaldik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
