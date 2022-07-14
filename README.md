@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
-<h3 align="center">I’m currently learning C# and Unity</h3>
+<h3 align="center">I’m junior game developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhansaldik&label=Profile%20views&color=0e75b6&style=flat" alt="gokhansaldik" /> </p>
+
+- 🔭 I’m currently working on [AtmRushClone](https://github.com/gokhansaldik/AtmRushClone)
+
+- 🌱 I’m currently learning **C# and Unity**
 
 - 📫 How to reach me **gokhansaldik@gmail.com**
 
