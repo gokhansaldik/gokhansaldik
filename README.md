@@ -17,4 +17,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gokhansaldik&show_icons=true&theme=synthwave" alt="gokhansaldik" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhansaldik&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="gokhansaldik" /></p>
+
